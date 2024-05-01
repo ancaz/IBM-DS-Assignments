@@ -1,0 +1,7 @@
+base URL:
+api.spacexdata.com/v4/
+
+endpoints:
+/capsules
+/cores
+/launches/past
